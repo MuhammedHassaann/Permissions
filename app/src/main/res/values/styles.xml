@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="imageButton_style">
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">150dp</item>
+        <item name="android:backgroundTint">#03A9F4</item>
+        <item name="android:elevation">15dp</item>
+    </style>
+</resources>
